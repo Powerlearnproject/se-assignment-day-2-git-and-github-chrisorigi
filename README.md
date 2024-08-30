@@ -3,7 +3,7 @@
 
 **Version Control** is a system that manages changes to documents, code, or other collections of information. The fundamental concepts of version control involve tracking changes, allowing multiple people to collaborate on a project without overwriting each other's work, and maintaining a history of all changes. This enables teams to revert to previous versions, compare changes, and understand the evolution of a project over time. 
 
-# Fundamental Concepts of Version Control:
+### Fundamental Concepts of Version Control:
 1. **Repositories**: A repository (or repo) is where all the files and their revision history are stored. Repositories can be local (on a developer's machine) or remote (on a server, such as GitHub).
 
 2. **Commits**: A commit is a snapshot of changes made to the files in a repository. Each commit has a unique ID and is accompanied by a message describing the changes.
@@ -16,7 +16,7 @@
 
 6. **Pull Requests**: A pull request is a way of proposing changes to a codebase. It allows other developers to review, discuss, and approve the changes before merging them into the main branch.
 
-# Why GitHub is Popular for Version Control:
+### Why GitHub is Popular for Version Control:
 1. **Collaboration**: GitHub provides an easy-to-use interface for developers to collaborate on projects. It integrates with Git, a distributed version control system, and offers features like pull requests, code reviews, and issue tracking.
 
 2. **Community and Open Source**: GitHub hosts millions of open-source projects. It allows developers to contribute to these projects, share code, and collaborate with others globally, fostering a strong community.
@@ -25,7 +25,7 @@
 
 4. **Version History and Backup**: GitHub automatically maintains a detailed history of changes, allowing developers to revert to previous versions if necessary. This history also acts as a backup, ensuring that no code is lost.
 
-# How Version Control Helps Maintain Project Integrity:
+### How Version Control Helps Maintain Project Integrity:
 - **Consistency**: Version control ensures that everyone on a team is working with the same version of the codebase. This prevents issues where different team members might be working on outdated or incompatible versions of files.
   
 - **Traceability**: Every change made to the project is tracked, along with who made the change and why. This traceability is crucial for understanding the evolution of the project and for accountability.

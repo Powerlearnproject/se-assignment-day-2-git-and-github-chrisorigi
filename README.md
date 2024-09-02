@@ -41,43 +41,43 @@
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 Below is a step-by-step guide to creating a new repository on GitHub:
 
-### 1. **Sign In to GitHub**
+**1. Sign In to GitHub**
    - Go to [GitHub.com](https://github.com) and sign in to your account. You will need to create an account if you don't have one.
 
-### 2. **Create a New Repository**
+**2. Create a New Repository**
    - Once logged in, click on the "+" icon in the top-right corner of the GitHub homepage and select "New repository" from the dropdown menu.
 
-### 3. **Name Your Repository**
+**3. Name Your Repository**
    - In the "Repository name" field, enter a name for your repository. 
    - The name should be descriptive and relevant to the project.
 
-### 4. **Add a Description (Optional but Recommended)**
+**4. Add a Description (Optional but Recommended)**
    - You can briefly describe the repository's purpose or contents in the "Description" field.
 
-### 5. **Choose the Visibility: Public or Private**
+**5. Choose the Visibility: Public or Private**
    
-### 6. **Initialize the Repository with a README**
+**6. Initialize the Repository with a README**
    - Adding a README is useful if you want to provide immediate context or instructions for the repository.
 
-### 7. **Add a .gitignore File (Optional)**
+**7. Add a .gitignore File (Optional)**
    - This file specifies which files or directories should be ignored by Git, preventing them from being tracked in the repository.
 
-### 8. **Choose a License (Optional)**
+**8. Choose a License (Optional)**
    - If you want to specify the legal terms under which your code can be used, select a license from the "Add a license" dropdown.
 
-### 9. **Create the Repository**
+**9. Create the Repository**
    - After setting your options, click the "Create repository" button. GitHub will set up the repository according to your choices.
 
-### 10. **Clone the Repository Locally**
+**10. Clone the Repository Locally**
    - Use Git to clone the repository to your local machine with the following command:
      ```
      git clone https://github.com/your-username/your-repository-name.git
      ```
 
-### 11. **Add Collaborators (Optional)**
+**11. Add Collaborators (Optional)**
    - Go to the "Settings" tab, select "Collaborators," and invite people by their GitHub username or email.
 
-### 12. **Push Code to the Repository**
+**12. Push Code to the Repository**
    - Use the following commands to add files, commit, and push changes:
      ```
      git add .
